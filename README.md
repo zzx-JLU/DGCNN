@@ -1,6 +1,8 @@
 # DGCNN
 
-This is a rough reproduction of the paper [EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks](https://ieeexplore.ieee.org/document/8320798/), including the dynamical graph convolutional layer only. The code is adapted from [this open access repository](https://github.com/lehaifeng/T-GCN/blob/master/T-GCN/T-GCN-PyTorch/README.md).
+This is a rough reproduction of the paper [EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks](https://ieeexplore.ieee.org/document/8320798/), including the dynamical graph convolutional layer only.
+
+The code is adapted from [this open access repository](https://github.com/lehaifeng/T-GCN/blob/master/T-GCN/T-GCN-PyTorch/README.md).
 
 To run the code, you can use commands below:
 
